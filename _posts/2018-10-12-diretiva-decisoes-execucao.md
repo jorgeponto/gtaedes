@@ -6,7 +6,10 @@ article_header:
   theme: dark
   background_color: '#123'
   background_image: false
+aside:
+  toc: true
 ---
+
 Na sequência da Diretiva (UE) 2016/2102 relativa à acessibilidade dos sítios Web e das aplicações móveis de organismos do setor público, a Comissão ficou de definir posteriormente, através de decisões de execução, dois temas: (a) a metodologia de monitorização e as modalidades de apresentação de relatórios pelos Estados-Membros; e (b) o modelo de declaração de acessibilidade a usar em cada sítio Web ou aplicação móvel. Essas decisões foram publicadas no JOUE a 12 de outubro de 2018 e o seu texto pode ser consultado nas hiperligações abaixo. De notar que estas decisões se destinam ao Estado-Membro. Significa isto que, será o Estado-Membro a transpor e a definir, com base nas presentes decisões, a metodologia de monitorização e o modelo de declaração de acessibilidade a utilizar em cada sítio Web ou aplicação móvel.
 
 ### DECISÃO DE EXECUÇÃO (UE) 2018/1524 DA COMISSÃO de 11 de outubro de 2018
