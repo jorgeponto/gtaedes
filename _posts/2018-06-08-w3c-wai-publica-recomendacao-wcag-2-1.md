@@ -1,16 +1,8 @@
 ---
-id: 1676
 title: W3C/WAI publica Recomendação com as WCAG 2.1
-date: 2018-06-08T17:18:33+00:00
-author: equipa acesso
-layout: post
-guid: http://www.acessibilidade.gov.pt/?p=1676
-permalink: /arquivo/1676
-categories:
-  - Normas
+author: equipa experiência digital
 tags:
   - WCAG 2.0
-format: image
 ---
 No passado dia 5 de junho de 2018, o Grupo de Trabalho para as Diretrizes de Acessibilidade publicou a Recomendação W3C para a versão 2.1 das Diretrizes de Acessibilidade para Conteúdo Web ([<em lang="en"><abbr title="Web Content Accessibility Guidelines">WCAG</abbr> 2.1</em>](https://www.w3.org/TR/WCAG21/)).
 
