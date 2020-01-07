@@ -1,12 +1,7 @@
 ---
 title: DL n.º 83/2018 - Acessibilidade dos sítios web e das aplicações móveis
-# date: 2018-10-19
-# layout: post
-tags:
-  - Legislação
-  - Notícias
 ---
-![República Portuguesa](/wordpress/wp-content/uploads/2018/10/republica_portuguesa.jpg)  
+
 Foi hoje publicado o Decreto-lei n.º 83/2018, de 19 de outubro, o qual define os requisitos de acessibilidade dos sítios web e das aplicações móveis de organismos públicos, transpondo a [Diretiva (UE) 2016/2102](/publicacoes/diretiva2016-2102).
 
 A Unidade ACESSO disponibiliza uma versão HTML do texto do diploma.
