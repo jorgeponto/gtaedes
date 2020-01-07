@@ -1,8 +1,8 @@
 ---
-title: 'DL n.º 83/2018 - Acessibilidade dos sítios web e das aplicações móveis'
-date: 2018-10-19
-layout: post
-categories:
+title: DL n.º 83/2018 - Acessibilidade dos sítios web e das aplicações móveis
+# date: 2018-10-19
+# layout: post
+tags:
   - Legislação
   - Notícias
 ---
