@@ -1,12 +1,7 @@
 ---
-id: 504
 title: 'Bolsa de estudo para estudantes com incapacidade igual ou superior a 60%'
-date: 2017-12-18T11:45:41+00:00
-author: gtaedes
-excerpt: |
-layout: post
-guid: https://www.gtaedes.pt/?p=504
-permalink: /2017/12/18/bolsa-de-estudo-para-estudantes-com-incapacidade-igual-ou-superior-a-60/
+date: 2017-12-18
+author: GTAEDES
 categories:
   - Legislação
 tags:

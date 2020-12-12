@@ -1,14 +1,9 @@
 ---
-id: 491
 title: Jornadas SUPERA 2017 no Porto, com participação do GTAEDES
-date: 2017-06-01T13:08:24+00:00
-author: gtaedes
-excerpt: |
-layout: post
-guid: https://www.gtaedes.pt/?p=491
-permalink: /2017/06/01/jornadas-supera-2017-no-porto-com-participacao-do-gtaedes/
+date: 2017-06-01
+author: GTAEDES
 categories:
-  - Uncategorized
+  - Eventos
 ---
 A decorrer entre 1, 2 e 3 de junho, nas instalações do **CACE Cultural, na  
 Rua do Freixo nº 1070, Porto,** na zona da Campanhã.

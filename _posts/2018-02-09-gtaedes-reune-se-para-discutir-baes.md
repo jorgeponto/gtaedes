@@ -1,17 +1,13 @@
 ---
-id: 528
 title: GTAEDES reúne-se para discutir BAES
-date: 2018-02-09T14:31:05+00:00
-author: gtaedes
-excerpt: |
-layout: post
-guid: https://www.gtaedes.pt/?p=528
-permalink: /2018/02/09/gtaedes-reune-se-para-discutir-baes/
+date: 2018-02-09
+author: GTAEDES
 categories:
-  - Recursos
+  - Eventos
 tags:
   - BAES
-  - formatos
+  - Formatos
+  - Recursos
 ---
 O GTAEDES esteve reunido, no passado dia 8 de fevereiro de 2018, para analisar o futuro da [BAES &#8211; Biblioteca Aberta do Ensino Superior](http://baes.up.pt/). No essencial, foram três os temas em análise:
 

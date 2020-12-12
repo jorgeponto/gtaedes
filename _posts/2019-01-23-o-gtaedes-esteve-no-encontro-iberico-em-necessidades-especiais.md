@@ -1,14 +1,9 @@
 ---
-id: 624
 title: O GTAEDES esteve no Encontro Ibérico em Necessidades Especiais
-date: 2019-01-23T11:18:42+00:00
-author: gtaedes
-# excerpt:
-layout: page
-guid: https://www.gtaedes.pt/?p=624
-permalink: /2019/01/23/o-gtaedes-esteve-no-encontro-iberico-em-necessidades-especiais/
+date: 2019-01-23
+author: GTAEDES
 categories:
-  - Notícia
+  - Notícias
 ---
 
 Entre 28 e 30 de novembro de 2018 decorreu no Instituto Politécnico de Beja o Encontro Ibérico em Necessidades Especiais "Transição para a vida Adulta: percursos reais, possíveis e desejáveis", organizado pelos docentes do Mestrado em Educação Especial, em colaboração com o CRENEE, do Instituto Politécnico de Beja e o GTAEDES.

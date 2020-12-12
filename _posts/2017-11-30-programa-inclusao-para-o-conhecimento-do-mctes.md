@@ -1,14 +1,11 @@
 ---
-id: 570
 title: Programa Inclusão para o Conhecimento do MCTES
-date: 2017-11-30T10:48:08+00:00
-author: gtaedes
-excerpt: |
-layout: post
-guid: https://www.gtaedes.pt/?p=570
-permalink: /2017/11/30/programa-inclusao-para-o-conhecimento-do-mctes/
+date: 2017-11-30
+author: GTAEDES
 categories:
-  - Legislação
+  - Estratégia
+tags:
+  - Programas
 ---
 GT-NECTES. (Novembro 2017). [Programa Inclusão para o Conhecimento &#8211; Relatório Final (PDF; 514KB; 29 páginas A4)](https://www.portugal.gov.pt/download-ficheiros/ficheiro.aspx?v=50f006ee-9f56-4348-8675-60d2e536544f).
 

@@ -1,17 +1,12 @@
 ---
-id: 537
-title: 'Necessidades Educativas Especiais 2017/18 &#8211; DGEEC divulga inquérito ao Ensino Superior'
-date: 2018-06-27T10:08:08+00:00
-author: gtaedes
-excerpt: |
-layout: post
-guid: https://www.gtaedes.pt/?p=537
-permalink: /2018/06/27/necessidades-educativas-especiais-2017-18-dgeec-divulga-inquerito-ao-ensino-superior/
+title: 'Necessidades Educativas Especiais 2017/18 - DGEEC divulga inquérito ao Ensino Superior'
+date: 2018-06-27
+author: GTAEDES
 categories:
   - Notícia
 tags:
-  - Bolsas
-  - NEEs
+  - Estudos
+  - Inquéritos
 ---
 A Direção-Geral de Estatísticas da Educação e Ciência (DGEEC) divulgou esta terça-feira, 26 de junho, os resultados do Inquérito às Instituições de Ensino Superior e respetivas Unidades Orgânicas sobre necessidades educativas especiais – 2017/18.
 

@@ -1,14 +1,9 @@
 ---
-id: 402
-title: 'Modernizar e valorizar os Politécnicos &#8211; GTAEDES marcou presença no debate'
-date: 2016-10-14T14:06:24+00:00
-author: gtaedes
-excerpt: |
-layout: post
-guid: https://www.gtaedes.pt/?p=402
-permalink: /2016/10/14/modernizar-e-valorizar-os-politecnicos-gtaedes-marcou-presenca-no-debate/
+title: 'Modernizar e valorizar os Politécnicos - GTAEDES marcou presença no debate'
+date: 2016-10-14
+author: GTAEDES
 categories:
-  - Uncategorized
+  - Eventos
 ---
 O **Fórum &#8220;Tecnologias de Reabilitação e Apoio para o Bem-Estar e Acessibilidades&#8221;** teve lugar no âmbito do [Programa de Modernização e Valirização do Ensino Politécnico](http://www.portugal.gov.pt/pt/ministerios/mctes/docs/20160210-mctes-modern-politecnicos.aspx), uma iniciativa do Ministério da Ciência, Tecnologia e Ensino Superior que visa reforçar e valorizar o impacto dos Institutos Politécnicos na sociedade e na economia portuguesa.
 

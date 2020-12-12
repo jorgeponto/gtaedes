@@ -2,12 +2,11 @@
 title: Seminário GTAEDES - 5ª edição (2016)
 date: 2016-03-31
 author: GTAEDES
-excerpt: Seminário GTAEDES - 5ª edição (2016) dedicado ao tema Inclusão - Boas práticas no Ensino Superior.
-layout: post
-# guid: https://www.gtaedes.pt/?p=293
-permalink: /arquivo/2016/v-seminario-gtaedes/
-categories:
-  - arquivo seminários GTAEDES
+categories: 
+  - arquivo
+tags:
+  - seminários 
+  - gtaedes
 ---
 
 A 5ª edição dos Seminários GTAEDES decorreu no ano de 2016:

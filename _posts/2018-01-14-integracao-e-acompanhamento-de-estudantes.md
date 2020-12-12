@@ -1,14 +1,11 @@
 ---
-id: 519
 title: Integração e Acompanhamento de Estudantes
-date: 2018-01-14T15:45:50+00:00
-author: gtaedes
-excerpt: |
-layout: post
-guid: https://www.gtaedes.pt/?p=519
-permalink: /2018/01/14/integracao-e-acompanhamento-de-estudantes/
+date: 2018-01-14
+author: GTAEDES
 categories:
-  - Notícia
+  - Notícias
+tags:
+  - Programas
 ---
 ## Universidade de Évora cria programa dirigido a apoiar sucesso académico dos seus estudantes
 

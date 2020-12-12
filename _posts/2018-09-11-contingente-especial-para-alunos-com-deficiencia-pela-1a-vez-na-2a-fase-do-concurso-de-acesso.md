@@ -1,15 +1,11 @@
 ---
-id: 559
 title: Contingente especial para alunos com deficiência pela 1ª vez na 2ª fase do Concurso de Acesso
-date: 2018-09-11T10:53:48+00:00
-author: gtaedes
-excerpt: |
-layout: post
-guid: https://www.gtaedes.pt/?p=559
-permalink: /2018/09/11/contingente-especial-para-alunos-com-deficiencia-pela-1a-vez-na-2a-fase-do-concurso-de-acesso/
-image: /wp-content/uploads/2018/09/esuperior.jpg
+date: 2018-09-11
+author: GTAEDES
 categories:
-  - Notícia
+  - Notícias
+tags:
+  - contingente especial
 ---
 Encontra-se concluída a 1ª fase do **Concurso Nacional de Acesso (CNA)** ao ensino superior público para o ano letivo 2018-2019. São 43 992 novos estudantes colocados de um total de 49 362 candidatos, o que corresponde a uma taxa de sucesso de 89% &#8211; **a maior taxa de sucesso desde 2013-2014**.
 

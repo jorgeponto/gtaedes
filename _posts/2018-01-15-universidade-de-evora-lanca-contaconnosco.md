@@ -1,16 +1,14 @@
 ---
-id: 517
 title: Universidade de Évora lança CONTACONNOSCO
-date: 2018-01-15T15:41:44+00:00
-author: gtaedes
-excerpt: |
-layout: post
-guid: https://www.gtaedes.pt/?p=517
-permalink: /2018/01/15/universidade-de-evora-lanca-contaconnosco/
+date: 2018-01-15
+author: GTAEDES
 categories:
-  - Notícia
+  - Notícias
+tags:
+  - Programa
+  - Estudo
 ---
-Lançado na sequência da publicação do estudo [O Abandono Escolar no Ensino Superior &#8211; Estudo de Caso na Universidade de Évora](http://gdoc.uevora.pt/431948), o **Programa CONTACONNOSCO** inclui um conjunto de ações que visam um acompanhamento mais próximo do percurso dos estudantes.
+Lançado na sequência da publicação do estudo [O Abandono Escolar no Ensino Superior - Estudo de Caso na Universidade de Évora](http://gdoc.uevora.pt/431948), o **Programa CONTACONNOSCO** inclui um conjunto de ações que visam um acompanhamento mais próximo do percurso dos estudantes.
 
 A questão do abandono escolar é multidimensional e transversal às várias Instituições de Ensino Superior, mas levanta desafios específicos em universidades localizadas no interior do país e/ou de menor dimensão, como a Universidade de Évora (UÉ). Nesta sequência foi realizado um estudo exaustivo, que decorreu durante um ano, por uma equipa pluridisciplinar de investigadores e técnicos da UÉ, para identificação das causas do Abandono Escolar na Universidade de Évora, de onde surgiram medidas orientadas para quatro domínios de intervenção principais: Escutar; Esclarecer; Aconselhar e Apoiar.
 

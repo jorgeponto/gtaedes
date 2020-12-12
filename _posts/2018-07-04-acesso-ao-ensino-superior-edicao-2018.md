@@ -1,14 +1,11 @@
 ---
-id: 553
-title: 'Acesso ao Ensino Superior &#8211; edição 2018'
-date: 2018-07-04T14:23:53+00:00
-author: gtaedes
-excerpt: |
-layout: post
-guid: https://www.gtaedes.pt/?p=553
-permalink: /2018/07/04/acesso-ao-ensino-superior-edicao-2018/
+title: 'Acesso ao Ensino Superior - edição 2018'
+date: 2018-07-04
+author: GTAEDES
 categories:
   - Notícia
+tags:
+  - Concurso Acesso Ensino Superior
 ---
 Em julho tem início o concurso nacional de acesso ao ensino superior 2018, organizado pela Direção-Geral do Ensino Superior.
 

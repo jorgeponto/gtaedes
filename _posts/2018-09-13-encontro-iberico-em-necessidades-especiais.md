@@ -1,15 +1,9 @@
 ---
-id: 573
 title: Beja recebe Encontro Ibérico em Necessidades Educativas Especiais
-date: 2018-09-13T13:44:24+00:00
-author: gtaedes
-excerpt: |
-layout: post
-guid: https://www.gtaedes.pt/?p=573
-permalink: /2018/09/13/encontro-iberico-em-necessidades-especiais/
-image: /wp-content/uploads/2018/09/beja.jpg
+date: 2018-09-13
+author: GTAEDES
 categories:
-  - Notícia
+  - Eventos
 ---
 Os docentes do Mestrado em Educação Especial, em colaboração com o CRENEE, do Instituto Politécnico de Beja e o GTAEDES vão levar a efeito nos próximos dias **<mark>28, 29 e 30 de novembro de 2018</mark>** o **Encontro Ibérico em Necessidades Especiais** subordinado ao tema **“Transição para a vida adulta: percursos reais, possíveis e desejáveis”**. O Encontro vai ter lugar no auditório do Instituto Politécnico de Beja.
 
