@@ -1,5 +1,6 @@
 ---
 title: O GTAEDES esteve no Encontro Ibérico em Necessidades Especiais
+layout: article
 date: 2019-01-23
 author: GTAEDES
 categories:
