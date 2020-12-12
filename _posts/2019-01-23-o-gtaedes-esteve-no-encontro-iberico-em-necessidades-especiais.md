@@ -1,6 +1,11 @@
 ---
-title: O GTAEDES esteve no Encontro Ibérico em Necessidades Especiais
 layout: article
+title: O GTAEDES esteve no Encontro Ibérico em Necessidades Especiais
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#123'
+  background_image: false
 date: 2019-01-23
 author: GTAEDES
 categories:
