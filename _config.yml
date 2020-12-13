@@ -35,7 +35,7 @@ timezone: PT # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones 
 ##############################
 author:
   type      : organization # "person" (default), "organization"
-  name      : gtaedes
+  name      : GTAEDES
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : Grupo informal composto por diversos serviços de apoio ao estudante com deficiência existentes no Ensino Superior.
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: jorgeponto/gtaedes
 repository_tree: master
 
 
@@ -177,6 +177,12 @@ analytics:
     tracking_id : # Google Analytics id for the site
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
+
+## => Collections
+##############################
+collections:
+  services:
+    instituicao: true
 
 ## => Build
 ##############################
