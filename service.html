@@ -1,0 +1,14 @@
+---
+title: Serviços de Apoio
+layout: article
+---
+
+<ul>
+{% for service in site.services %}
+  <li>
+    <a href="{{ service.url }}">
+      {{ service.instituicao }} - {{ service.distrito }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
