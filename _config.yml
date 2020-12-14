@@ -183,7 +183,6 @@ analytics:
 collections:
   services:
     output: true
-    permalink: /services/:path/
 
 ## => Build
 ##############################
