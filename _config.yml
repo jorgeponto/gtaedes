@@ -183,6 +183,8 @@ analytics:
 collections:
   services:
     output: true
+    layout: article
+    permalink: /gtaedes/services/:path
 
 ## => Build
 ##############################
