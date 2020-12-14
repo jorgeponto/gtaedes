@@ -5,7 +5,7 @@ distrito: Lisboa
 
 Esta é a escola a.
 
-Equipamentos:
+Equipamentos:in
 
 - equipamento a;
 - equipamento b;
