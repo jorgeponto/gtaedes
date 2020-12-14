@@ -183,7 +183,8 @@ analytics:
 collections:
   services:
     output: true
-    layout: article
+    values:
+      layout: article
 
 ## => Build
 ##############################
