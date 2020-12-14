@@ -4,9 +4,9 @@ prefixo-distrito: de
 distrito: Lisboa
 ---
 
-Esta é a {{ site.services.title }} e encontra-se no distrito {{ site.services .prefixo-distrito}} {{ site.services.distrito }}.
+Esta é a {{page.title}} e encontra-se no distrito {{page.prefixo-distrito}} {{page.distrito}}.
 
-Equipamentos:
+## Equipamentos:
 
 - equipamento a;
 - equipamento b;
