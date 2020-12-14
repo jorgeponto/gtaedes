@@ -182,7 +182,8 @@ analytics:
 ##############################
 collections:
   services:
-    instituicao: true
+    output: true
+    permalink: /gtaedes/services/
 
 ## => Build
 ##############################
