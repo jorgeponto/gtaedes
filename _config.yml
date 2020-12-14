@@ -182,7 +182,7 @@ analytics:
 ##############################
 collections:
   services:
-    instituicao: true
+    output: true
 
 ## => Build
 ##############################
