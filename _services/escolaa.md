@@ -1,11 +1,12 @@
 ---
-instituicao: Escola A
+title: Escola A
+prefixo-distrito: de
 distrito: Lisboa
 ---
 
-Esta é a escola a.
+Esta é a {{title}} e encontra-se no distrito {{prefixo-distrito}} {{distrito}}.
 
-Equipamentos:in
+Equipamentos:
 
 - equipamento a;
 - equipamento b;
