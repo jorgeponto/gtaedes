@@ -1,4 +1,5 @@
 ---
+layout: article
 title: Escola A
 prefixo-distrito: de
 distrito: Lisboa
