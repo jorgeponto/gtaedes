@@ -4,7 +4,7 @@ prefixo-distrito: do
 distrito: Porto
 ---
 
-Esta é a {{title}} e encontra-se no distrito {{prefixo-distrito}} {{distrito}}.
+Esta é a {{page.title}} e encontra-se no distrito {{page.prefixo-distrito}} {{page.distrito}}.
 
 Equipamentos:
 
