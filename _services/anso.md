@@ -8,4 +8,4 @@ distrito: 			Lisboa
 
 
 
-A instituição **{{page.title}}** é uma instituição de **{{tipo-ensino}}** do tipo **{{tipo-instituicao}}**, localizada no distrito de **{{distrtito}}**.
+A instituição **{{page.title}}** é uma instituição de **{{page.tipo-ensino}}** do tipo **{{page.tipo-instituicao}}** localizada no distrito de **{{page.distrtito}}**.
