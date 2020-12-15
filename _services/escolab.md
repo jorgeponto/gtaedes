@@ -1,4 +1,5 @@
 ---
+layout: service
 title: Escola B
 prefixo-distrito: do
 distrito: Porto

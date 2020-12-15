@@ -1,4 +1,5 @@
 ---
+layout: service
 title: Escola A
 prefixo-distrito: de
 distrito: Lisboa
