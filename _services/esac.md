@@ -6,14 +6,13 @@ tipo-instituicao: 	Politécnico
 url-instituicao:	http://www.esac.pt/
 distrito: 			Coimbra
 
-servico-apoio:		sim
-sa-nome:
+sa-nome:			Gabinete de Ação Social
 sa-tels:			239 802 940
 sa-emails:			marta.correia@ipc.pt
 sa-morada-l1:		Bencanta
 sa-morada-l2:
 sa-morada-cp:		3045-601 Coimbra
-regulamento-nee:	sim
+
 regulamento-nome:	Regulamento de Frequência e Avaliação dos Estudantes Portadores de Deficiências Físicas ou Sensoriais
 regulamento-url:	http://www.iscac.pt/getfile.php?id=725
 

@@ -7,9 +7,38 @@ type: article
 <p>A instituição <strong>{{page.title}}</strong> é uma instituição de <strong>{{page.tipo-ensino}}</strong> do tipo <strong>{{page.tipo-instituicao}}</strong> localizada no distrito de <strong>{{page.distrito}}</strong>.</p>
 
 {%- if page.sa-nome -%}
-	<p>{{page.sa-nome}}</p>
-{%- else -%}
-		<p class="waring"><strong>NOTA:</strong> Não identificámos a existência de um serviço de apoio para esta instituição. Caso tenha conhecimento de um serviço específico a funcionar na instituição contacte-nos através do email: <a href="mailto:info@gtaedes.pt">info@gtaedes.pt</a>.</p>
+	<h2>Serviço de apoio</h2>
+	<p><em>{{page.sa-nome}}</em></p>
+	<ul>
+		{%- if page.sa-tels -%}<li>{{page.sa-tels}}</li>{%- endif -%}
+		{%- if page.sa-emails -%}<li>{{sa-emails}}</li>{%- endif -%}
+		{%- if page.sa-morada-l1 -%}<li>{{sa-morada-l1}}
+				{%- if page.sa-morada-l2 -%}<br>{{sa-morada-l2}}</li>
+					{%- else -%}</li>{%- endif -%}
+		{%- if page.sa-morada-cp -%}<li>{{sa-morada-cp}}</li>{%- endif -%}
+	</ul>
+{%- else -%}<
+		<div class="waring">
+			<p><strong>NOTA:</strong> Não identificámos a existência de um serviço de apoio para esta instituição. Caso tenha conhecimento de um serviço específico a funcionar na instituição contacte-nos através do email: <a href="mailto:info@gtaedes.pt">info@gtaedes.pt</a>.</p>
+		</div>
 {%- endif -%}
 
-<div>{{ page.adaptacao-a11y-fisica }}</div>
+{%- if page.regulamento-nome -%}
+<h2>{{page.regulamento-nome}}</h2>
+<p>Consulte o <a href="{{page.regulamento-url}}">{{page.regulamento-nome}}</a></p>
+{%- endif -%}
+
+{%- if page.adaptacao-curricular -%}
+<h2>Adaptações curriculares ou à avaliação</h2>
+<p>{{page.adaptacao-curricular}}</p>
+{%- endif -%}
+
+{%- if page.adaptacao-apoio -%}
+<h2>Apoio individualizado disponível</h2>
+<p>{{page.adaptacao-apoio}}</p>
+{%- endif -%}
+
+{%- if page.adaptacao-apoio -%}
+<h2>Acessibilidade física existente</h2>
+<p>{{page.adaptacao-a11y-fisica }}</p>
+{%- endif -%}
