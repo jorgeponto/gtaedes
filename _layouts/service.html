@@ -5,3 +5,11 @@ type: article
 <p><a href="../">início</a> / <a href="../service.html">diretório</a></p>
 
 <p>A instituição <strong>{{page.title}}</strong> é uma instituição de <strong>{{page.tipo-ensino}}</strong> do tipo <strong>{{page.tipo-instituicao}}</strong> localizada no distrito de <strong>{{page.distrito}}</strong>.</p>
+
+{%- if page.sa-nome -%}
+	<p>{{page.sa-nome}}</p>
+{%- else -%}
+	<p>Não foi localizado um serviço de apoio</p>
+{%- endif -%}
+
+<div>{{ adaptacao-a11y-fisica }}</div>
