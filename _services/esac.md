@@ -7,7 +7,7 @@ url-instituicao:	http://www.esac.pt/
 distrito: 			Coimbra
 
 servico-apoio:		sim
-sa-nome:			Gabinete de Ação Social
+sa-nome:
 sa-tels:			239 802 940
 sa-emails:			marta.correia@ipc.pt
 sa-morada-l1:		Bencanta
