@@ -9,9 +9,7 @@ type: article
 {%- if page.sa-nome -%}
 	<p>{{page.sa-nome}}</p>
 {%- else -%}
-	<div class="alert alert-warning" role="alert">
-		<p><strong>NOTA:</strong> Não identificámos a existência de um serviço de apoio para esta instituição. Caso tenha conhecimento de um serviço específico a funcionar na instituição contacte-nos através do email: <a href="mailto:info@gtaedes.pt">info@gtaedes.pt</a>.</p>
-	</div>
+		<p class="waring"><strong>NOTA:</strong> Não identificámos a existência de um serviço de apoio para esta instituição. Caso tenha conhecimento de um serviço específico a funcionar na instituição contacte-nos através do email: <a href="mailto:info@gtaedes.pt">info@gtaedes.pt</a>.</p>
 {%- endif -%}
 
-<div>{{ page.adaptacao-a11y-fisica }}</div>
+<div>{{ page.adaptacao-a11y-fisica | markdownify }} }}</div>
