@@ -18,7 +18,7 @@ type: article
 		{%- if page.sa-emails -%}<li>{{sa-emails}}</li>{%- endif -%}
 		{%- if page.sa-morada-l1 -%}<li>{{sa-morada-l1}}
 				{%- if page.sa-morada-l2 -%}<br>{{sa-morada-l2}}</li>
-					{%- else -%}</li>{%- endif -%}
+					{%- else -%}</li>{%- endif -%}{%- endif -%}
 		{%- if page.sa-morada-cp -%}<li>{{sa-morada-cp}}</li>{%- endif -%}
 	</ul>
 {%- else -%}<

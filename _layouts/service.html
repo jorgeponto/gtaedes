@@ -11,6 +11,15 @@ type: article
 {%- if page.sa-nome -%}
 	<h2>Serviço de apoio</h2>
 	<p><em>{{page.sa-nome}}</em></p>
+	<ul>
+		{%- if page.sa-tels -%}<li>{{page.sa-tels}}</li>{%- endif -%}
+		{%- if page.sa-emails -%}<li>{{page.sa-emails}}</li>{%- endif -%}
+		{%- if page.sa-morada-l1 -%}<li>{{page.sa-morada-l1}}
+			{%- if page.sa-morada-l2 -%}<br>{{page.sa-morada-l2}}</li>
+			{%- else -%}</li>{%- endif -%}
+		{%- endif -%}
+		{%- if page.sa-morada-cp -%}<li>{{sa-morada-cp}}</li>{%- endif -%}
+	</ul>
 {%- else -%}<
 		<div class="waring">
 			<p><strong>NOTA:</strong> Não identificámos a existência de um serviço de apoio para esta instituição. Caso tenha conhecimento de um serviço específico a funcionar na instituição contacte-nos através do email: <a href="mailto:info@gtaedes.pt">info@gtaedes.pt</a>.</p>
