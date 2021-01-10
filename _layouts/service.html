@@ -8,16 +8,16 @@ type: article
 
 {%- if page.sa-nome -%}
 	<h2>Serviço de apoio a estudantes com deficiência</h2>
-	<p>Designação do serviço de apoio: <em>{{page.sa-nome}}</em></p>
+	<p><em>{{page.sa-nome}}</em></p>
 	<dl>
 	<dt>Contactos:</dt>
-		{%- if page.sa-tels -%}<dd>Telefone(s): {{page.sa-tels}}</dd>{%- endif -%}
-		{%- if page.sa-emails -%}<dd>E-mail(s): {{page.sa-emails}}</dd>{%- endif -%}
-		{%- if page.sa-morada-l1 -%}<dd>{{page.sa-morada-l1}}
-			{%- if page.sa-morada-l2 -%}<br>{{page.sa-morada-l2}}</dd>
+		{%- if page.sa-tels -%}<dd>Telefone(s): <strong>{{page.sa-tels}}</strong></dd>{%- endif -%}
+		{%- if page.sa-emails -%}<dd>E-mail(s): <strong>{{page.sa-emails}}</strong></dd>{%- endif -%}
+		{%- if page.sa-morada-l1 -%}<dd><strong>{{page.sa-morada-l1}}</strong>
+			{%- if page.sa-morada-l2 -%}<br><strong>{{page.sa-morada-l2}}</strong></dd>
 			{%- else -%}</dd>{%- endif -%}
 		{%- endif -%}
-		{%- if page.sa-morada-cp -%}<dd>{{page.sa-morada-cp}}</dd>{%- endif -%}
+		{%- if page.sa-morada-cp -%}<dd><strong>{{page.sa-morada-cp}}</strong></dd>{%- endif -%}
 	</dl>
 {%- else -%}
 		<div class="waring">
