@@ -17,6 +17,7 @@ adaptacao-curricular: Adaptação dos instrumentos de avaliação e criação de
 adaptacao-apoio: Apoio de um assistente social.
 adaptacao-a11y-fisica: Adaptações na acessibilidade aos edifícios da instituição, à Biblioteca, a algumas casas de banho, laboratórios, parques de estacionamento (2 lugares) e a algumas salas de aula e de estudo. No edifício existem algumas casas de banho adaptadas, elevadores, rampas de acesso, e sinalética. Existe em algumas salas possibilidade de alteração das condições de luminosidade, instalação de sistemas de ampliação de som e reserva de lugares. Em bares e restaurantes é dado apoio na preparação das refeições.
 ---
+
 porque é que isto não está a atualizar?
 
 
