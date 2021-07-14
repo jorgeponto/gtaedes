@@ -14,7 +14,7 @@ Deixa-se abaixo o vídeo da preleção [nota: brevemente deixaremos também a tr
 <div style="margin:auto auto;text-align:center">
 </div>
 
-[](http://shina-pro.in.ua/)
+[abc](http://shina-pro.in.ua/)
 
 [](http://tires-auto.com/)
 
